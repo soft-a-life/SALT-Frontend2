@@ -1,0 +1,44 @@
+.board-list {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .board-list h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .write-button {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    float: right; /* 버튼을 오른쪽으로 이동 */
+  }
+  
+  .board-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .board-list th, .board-list td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .board-list th {
+    background-color: #f4f4f4;
+  }
+  
+  .board-list tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .board-list tr:hover {
+    background-color: #f1f1f1;
+  }
+  

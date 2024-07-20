@@ -1,0 +1,48 @@
+.write-post {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .write-post h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group select,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+  }
+  
+  .form-group textarea {
+    height: 200px;
+    resize: vertical;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.875em;
+    margin-top: 5px;
+  }
+  

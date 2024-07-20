@@ -1,0 +1,19 @@
+.post-detail {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.post-detail h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.post-detail p {
+    margin: 5px 0;
+}
+
+.post-detail .post-content {
+    margin-top: 20px;
+    white-space: pre-wrap; /* 내용의 줄바꿈을 유지합니다 */
+}

@@ -1,0 +1,24 @@
+.mypage {
+    padding: 20px;
+  }
+  
+  .user-info {
+    margin-bottom: 10px;
+  }
+  
+  .user-info label {
+    display: inline-block;
+    width: 100px;
+  }
+  
+  .user-info input {
+    padding: 5px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
